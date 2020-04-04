@@ -1,1 +1,4 @@
-1235465484984798
+public static void main()
+{
+  system.out.println("hello word!");
+}
